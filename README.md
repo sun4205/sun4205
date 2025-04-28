@@ -13,7 +13,7 @@
   <li>🥅 <strong>My current goal</strong> is to land my first role as a Software Engineer.</li>
   <li>💬 I love sharing my career transition story and connecting with others on similar paths.</li>
   <li>📫 How to reach me: <strong>hanna4205@gmail.com</strong></li>
-  <li>⚡ <strong>Fun fact </strong>:I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
+  <li>⚡ <strong>Fun fact </strong>: I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sun4205&label=Profile%20views&color=0e75b6&style=flat" alt="sun4205" /> </p>
