@@ -3,7 +3,7 @@
 <p align="left">I'm a Full Stack Software Engineer with a unique background—after 10 years as a Dental Technician, I transitioned into tech by graduating from the <strong>TripleTen Software Engineering Bootcamp</strong>. Now, I'm passionate about building responsive and scalable web applications using the <strong>MERN stack</strong>. My experience in the dental field sharpened my attention to detail, patience, and problem-solving—skills that I now bring into my engineering work.</h3>
 
 <p align="left">
-  I enjoy creating clean, user-friendly interfaces and writing efficient backend logic that supports real-world functionality. I'm continuously learning and collaborating with others to deliver solutions that make a meaningful impact.
+  I want creating clean, user-friendly interfaces and writing efficient backend logic that supports real-world functionality. I'm continuously learning and collaborating with others to deliver solutions that make a meaningful impact.
 </p>
 
 <ul align="left">
