@@ -3,7 +3,7 @@
 <p align="left">I'm a Full Stack Software Engineer with a unique background—after 10 years as a Dental Technician, I transitioned into tech by graduating from the <strong>TripleTen Software Engineering Bootcamp</strong>. Now, I'm passionate about building responsive and scalable web applications using the <strong>MERN stack</strong>. My experience in the dental field sharpened my attention to detail, patience, and problem-solving—skills that I now bring into my engineering work.</h3>
 
 <p align="left">
-  I want creating clean, user-friendly interfaces and writing efficient backend logic that supports real-world functionality. I'm continuously learning and collaborating with others to deliver solutions that make a meaningful impact.
+  I enjoy creating clean, user-friendly interfaces and writing efficient backend logic that supports real-world functionality. I'm continuously learning and collaborating with others to deliver solutions that make a meaningful impact.
 </p>
 
 <ul align="left">
@@ -13,7 +13,7 @@
   <li>🥅 <strong>My current goal</strong> is to land my first role as a Software Engineer.</li>
   <li>💬 I love sharing my career transition story and connecting with others on similar paths.</li>
   <li>📫 How to reach me: <strong>hanna4205@gmail.com</strong></li>
-  <li>⚡ <strong>Fun fact</strong>:I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
+  <li>⚡ <strong>Fun fact </strong>:I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sun4205&label=Profile%20views&color=0e75b6&style=flat" alt="sun4205" /> </p>
