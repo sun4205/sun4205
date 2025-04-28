@@ -10,7 +10,7 @@
   <li>💙 <strong>Currently working in home care</strong>, but actively pursuing a transition into tech as a Full Stack Software Engineer.</li>
   <li>🌱 <strong>Graduated from TripleTen's Full Stack Web Development Bootcamp</strong>, where I built projects using the MERN stack.</li>
   <li>🔭 <strong>Outside of coding</strong>, I aim to invest in personal growth by attending seminars on communication skills, vocal training, and financial literacy.</li>
-  <li>🥅 <strong>My current goal</strong> is to actively working towards landing my first role as a Software Engineer.</li>
+  <li>🥅 <strong>My current goal</strong> is to actively work towards landing my first role as a Software Engineer.</li>
   <li>💬 I love connecting with others on similar paths and sharing my journey.</li>
   <li>📫 How to reach me: <strong>hanna4205@gmail.com</strong></li>
   <li>⚡ <strong>Fun fact </strong>: I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
