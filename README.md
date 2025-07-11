@@ -16,9 +16,9 @@
   <li>⚡ <strong>Fun fact </strong>: I’m dreaming of joining a volunteer project abroad to give back and learn from other cultures.</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sun4205&label=Profile%20views&color=0e75b6&style=flat" alt="sun420" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sun4205&label=Profile%20views&color=0e75b6&style=flat" alt="sun4205" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sun420" alt="sun4205" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
