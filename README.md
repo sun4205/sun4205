@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sun4205&label=Profile%20views&color=0e75b6&style=flat" alt="sun4205" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sun4205" alt="sun4205" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sun420" alt="sun4205" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,7 +71,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun4205&layout=compact&theme=dark)
-![Hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun4205&show_icons=true&theme=dark&hide=prs,issues)
+
 
 
 
